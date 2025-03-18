@@ -1,0 +1,1 @@
+Icon generated using https://github.com/TABmk/minecraft-blocks-render
